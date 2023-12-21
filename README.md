@@ -74,4 +74,6 @@ print("Difference:\n", difference_matrix)
 print("Elementwise Product:\n", elementwise_product_matrix)
 print("Matrix Product:\n", matrix_product)
 
+
+
 Висновок: Попрактикувалась з бібліотекою NumPy, виконала завдання та завантажити їх у репозиторій
